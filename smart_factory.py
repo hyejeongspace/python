@@ -195,28 +195,14 @@ def model():
     cv2.destroyAllWindows()
 
 
-# def main():
-#     start_belt()
-#     class_A()
-#     time.sleep(10)
-#     class_B()
-#     time.sleep(10)
-#     class_C()
-#     time.sleep(10)
-#     stop_belf()
-
 
 def main():
-    #  start_belt()
-    # speed_up()
-    # speed_up()
-    #   model()
-    #     speed_up()
-    #   speed_up()
-         stop_belf()
+    start_belt()
+    #speed_up()
+    #speed_up()
+    model()
+    #stop_belf()
 
-# def main():
-#     start_belt()
-#     for
-main()
-#
+
+if __name__ == "__main__":
+	main()
